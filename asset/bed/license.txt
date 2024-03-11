@@ -1,0 +1,11 @@
+Model Information:
+* title:	bedroom unity assets
+* source:	https://sketchfab.com/3d-models/bedroom-unity-assets-2fb0edd32d1f4b1dac176f5d8352725d
+* author:	Unity  (shehab house) (https://sketchfab.com/shahabahmed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bedroom unity assets" (https://sketchfab.com/3d-models/bedroom-unity-assets-2fb0edd32d1f4b1dac176f5d8352725d) by Unity  (shehab house) (https://sketchfab.com/shahabahmed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Countryside brick house
+* source:	https://sketchfab.com/3d-models/countryside-brick-house-448a4ac05ae34a70bb2095fc30c0e81e
+* author:	dannzjs (https://sketchfab.com/dannzjs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Countryside brick house" (https://sketchfab.com/3d-models/countryside-brick-house-448a4ac05ae34a70bb2095fc30c0e81e) by dannzjs (https://sketchfab.com/dannzjs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

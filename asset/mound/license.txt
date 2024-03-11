@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cham ZG, Switzerland - Täubmatt Underwater Mound
+* source:	https://sketchfab.com/3d-models/cham-zg-switzerland-taubmatt-underwater-mound-5fec6e20f83d45d983ba19e8bb3563ea
+* author:	archaeobotics (https://sketchfab.com/archaeobotics)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cham ZG, Switzerland - Täubmatt Underwater Mound" (https://sketchfab.com/3d-models/cham-zg-switzerland-taubmatt-underwater-mound-5fec6e20f83d45d983ba19e8bb3563ea) by archaeobotics (https://sketchfab.com/archaeobotics) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

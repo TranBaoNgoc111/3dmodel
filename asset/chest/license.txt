@@ -1,0 +1,11 @@
+Model Information:
+* title:	Magical Alchemist Kit
+* source:	https://sketchfab.com/3d-models/magical-alchemist-kit-eac4b392b7b448a2b6ec77e8936abe1b
+* author:	CriticalMammal (https://sketchfab.com/CriticalMammal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Magical Alchemist Kit" (https://sketchfab.com/3d-models/magical-alchemist-kit-eac4b392b7b448a2b6ec77e8936abe1b) by CriticalMammal (https://sketchfab.com/CriticalMammal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pirate Props, Rum and Barrels
+* source:	https://sketchfab.com/3d-models/pirate-props-rum-and-barrels-55cd0fad53004f2b845d2474ff2c25f1
+* author:	Chris Sweetwood (https://sketchfab.com/ChrisSweetwood)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pirate Props, Rum and Barrels" (https://sketchfab.com/3d-models/pirate-props-rum-and-barrels-55cd0fad53004f2b845d2474ff2c25f1) by Chris Sweetwood (https://sketchfab.com/ChrisSweetwood) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
